@@ -1,0 +1,21 @@
+.HorizontalF {
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    left: 40%;
+}
+
+.VerticalF {
+    position: absolute;
+    z-index: 1;
+    top: 200px;
+    right: 65px;
+}
+
+.IconBtn {
+    bottom: 7px;
+}
+
+#markerN {
+    background-color: white;
+}
